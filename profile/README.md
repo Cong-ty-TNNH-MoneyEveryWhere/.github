@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Money%20EveryWhere&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="MoneyEveryWhere Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Q-Tech&fontSize=90&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Q-Tech Header" width="100%" />
 
   <h1 style="border-bottom: none;">
-    🚀 Kiến tạo giải pháp công nghệ cho tương lai 🚀
+    🤖 Tiên phong trong AI và Giải pháp Kinh doanh 🚀
   </h1>
 
   <p align="center">
-    <b>Đổi mới</b> • <b>Tin cậy</b> • <b>Bền vững</b>
+    <b>AI-Driven</b> • <b>Đổi mới</b> • <b>Bền vững</b>
     <br/>
     <br/>
     <a href="#about">
-      <img src="https://img.shields.io/badge/Về%20chúng%20tôi-0072ff?style=for-the-badge&logo=rss&logoColor=white" alt="About Us" />
+      <img src="https://img.shields.io/badge/Về%20chúng%20tôi-667eea?style=for-the-badge&logo=rss&logoColor=white" alt="About Us" />
     </a>
     <a href="#services">
-      <img src="https://img.shields.io/badge/Dịch%20vụ-ff0055?style=for-the-badge&logo=target&logoColor=white" alt="Services" />
+      <img src="https://img.shields.io/badge/Dịch%20vụ-764ba2?style=for-the-badge&logo=target&logoColor=white" alt="Services" />
     </a>
     <a href="#tech-stack">
       <img src="https://img.shields.io/badge/Công%20nghệ-black?style=for-the-badge&logo=github&logoColor=white" alt="Tech Stack" />
@@ -31,18 +31,18 @@
     <td width="60%" valign="center">
       <h2 id="about">🌟 Về Chúng Tôi</h2>
       <p>
-        Chào mừng bạn đến với <b>MoneyEveryWhere</b> - đối tác tin cậy trong kỷ nguyên số. 
-        Chúng tôi không chỉ là một công ty công nghệ; chúng tôi là những người kiến tạo giải pháp.
+        Chào mừng bạn đến với <b>Q-Tech</b> - công ty tiên phong về giải pháp AI và Kinh doanh. 
+        Chúng tôi không chỉ áp dụng công nghệ, mà còn định hình cách doanh nghiệp tương tác với trí tuệ nhân tạo.
       </p>
       <p>
-        Sứ mệnh của chúng tôi là biến ý tưởng thành hiện thực số. Chúng tôi chuyên thiết kế <b>Website & Mobile App</b> đa nền tảng và xây dựng các quy trình <b>Tự động hóa (Automation)</b> thông minh giúp tối ưu vận hành doanh nghiệp.
+        Sứ mệnh của chúng tôi là trao quyền cho doanh nghiệp thông qua <b>AI và Machine Learning</b>, xây dựng các giải pháp <b>Business Intelligence</b> thông minh, và tối ưu hóa quy trình kinh doanh bằng <b>Automation</b> và <b>Data Analytics</b>.
       </p>
       <blockquote>
-        <i>"Công nghệ không chỉ là mã code, đó là cách chúng ta định hình tương lai."</i>
+        <i>"AI không thay thế con người, AI giúp con người làm việc thông minh hơn."</i>
       </blockquote>
     </td>
     <td width="40%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG53bDN6ODN4YnF4b3RxaGg4a3R2bnN6eW14eHY5eXJ6eXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LdOyjZ7io5Msw/giphy.gif" width="200" alt="Innovation Gif" />
+      <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="500" alt="AI Technology" />
     </td>
   </tr>
 </table>
@@ -88,43 +88,48 @@
 
 <h2 id="tech-stack">🛠 Hệ Sinh Thái Công Nghệ</h2>
 
-Chúng tôi sử dụng những công nghệ tiên tiến nhất để đảm bảo hiệu suất và khả năng mở rộng.
+Chúng tôi sử dụng những công nghệ AI và Business Intelligence hàng đầu để tạo ra giải pháp thông minh.
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><b>Frontend & Mobile</b></td>
+    <td width="25%" align="center"><b>AI & Machine Learning</b></td>
     <td width="75%">
-      <img src="https://skillicons.dev/icons?i=react,vue,nextjs,flutter,swift,kotlin" alt="Frontend Mobile Icons" />
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI ML Icons" />
+      <br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend & Core</b></td>
+    <td align="center"><b>Data & Analytics</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,go,java,rust,spring" alt="Backend Icons" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & Infrastructure</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,docker,kubernetes" alt="Backend Icons" />
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Database & Cloud</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,aws,gcp,docker,kubernetes" alt="Infra Icons" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Automation & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,figma,postman" alt="Tools Icons" />
-      <br />
-      <br />
-      <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-      <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=white" alt="Make" />
-      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,gcp,azure" alt="Database Cloud Icons" />
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 id="projects">🏆 Open Source & Dự Án</h2>
+<h2 id="projects">🏆 Dự Án Tiêu Biểu</h2>
 
 <table>
   <thead>
@@ -136,14 +141,19 @@ Chúng tôi sử dụng những công nghệ tiên tiến nhất để đảm b�
   </thead>
   <tbody>
     <tr>
-      <td><b>MoneyFlow Core</b></td>
-      <td>Hệ thống quản lý dòng tiền doanh nghiệp với khả năng xử lý hàng triệu giao dịch.</td>
-      <td><code>Go</code> <code>gRPC</code> <code>Kafka</code></td>
+      <td><b>Q-Analytics Platform</b></td>
+      <td>Nền tảng Business Intelligence với AI tự động phân tích xu hướng và dự báo.</td>
+      <td><code>Python</code> <code>TensorFlow</code> <code>PowerBI</code></td>
     </tr>
     <tr>
-      <td><b>SmartWallet App</b></td>
-      <td>Ứng dụng ví điện tử thế hệ mới tích hợp AI gợi ý chi tiêu.</td>
-      <td><code>Flutter</code> <code>Python</code> <code>TensorFlow</code></td>
+      <td><b>Q-Assistant</b></td>
+      <td>Chatbot AI đa ngôn ngữ hỗ trợ khách hàng 24/7 với khả năng học và cải thiện liên tục.</td>
+      <td><code>NLP</code> <code>LangChain</code> <code>OpenAI</code></td>
+    </tr>
+    <tr>
+      <td><b>Q-Vision</b></td>
+      <td>Giải pháp Computer Vision cho nhận dạng và phân loại tự động trong sản xuất.</td>
+      <td><code>PyTorch</code> <code>OpenCV</code> <code>FastAPI</code></td>
     </tr>
   </tbody>
 </table>
@@ -154,23 +164,23 @@ Chúng tôi sử dụng những công nghệ tiên tiến nhất để đảm b�
 
 <div align="center" id="contact">
   <h3>🤝 Kết nối với chúng tôi</h3>
-  <p>Chúng tôi luôn tìm kiếm những tài năng mới và cơ hội hợp tác.</p>
+  <p>Hãy để Q-Tech đồng hành cùng bạn trong hành trình chuyển đổi số với AI.</p>
   
   <p>
-    <a href="https://moneyeverywhere.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-www.MoneyEveryWhere.com-blue?style=social&logo=google-chrome" alt="Website" />
+    <a href="https://qtech.ai.vn" target="_blank">
+      <img src="https://img.shields.io/badge/Website-www.QTech.ai.vn-blue?style=social&logo=google-chrome" alt="Website" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:contact@moneyeverywhere.com">
-      <img src="https://img.shields.io/badge/Email-contact%40moneyeverywhere.com-red?style=social&logo=gmail" alt="Email" />
+    <a href="mailto:contact@qtech.ai.vn">
+      <img src="https://img.shields.io/badge/Email-contact%40qtech.ai.vn-red?style=social&logo=gmail" alt="Email" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-MoneyEveryWhere-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
+    <a href="https://linkedin.com/company/qtech">
+      <img src="https://img.shields.io/badge/LinkedIn-Q--Tech-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
     </a>
   </p>
   
   <br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer&text=©%202026%20MoneyEveryWhere&fontSize=20&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&text=©%202026%20Q-Tech&fontSize=20&fontColor=ffffff" width="100%" />
 </div>
