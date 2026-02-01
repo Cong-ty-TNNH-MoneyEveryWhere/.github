@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Q-Tech&fontSize=90&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Q-Tech Header" width="100%" />
+  <img src="https://i.ibb.co/Zz9nW0Wx/Q-Tech.gif" alt="Q-Tech Header" width="80%" />
 
   <h1 style="border-bottom: none;">
-    🤖 Tiên phong trong AI và Giải pháp Kinh doanh 🚀
+    <img src="https://img.icons8.com/fluency/48/robot.png" width="35" valign="middle"/> Tiên phong trong AI và Giải pháp Kinh doanh <img src="https://img.icons8.com/fluency/48/rocket.png" width="35" valign="middle"/>
   </h1>
 
   <p align="center">
@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td width="60%" valign="center">
-      <h2 id="about">🌟 Về Chúng Tôi</h2>
+      <h2 id="about"><img src="https://img.icons8.com/fluency/48/star.png" width="30" valign="middle"/> Về Chúng Tôi</h2>
       <p>
         Chào mừng bạn đến với <b>Q-Tech</b> - công ty tiên phong về giải pháp AI và Kinh doanh. 
         Chúng tôi không chỉ áp dụng công nghệ, mà còn định hình cách doanh nghiệp tương tác với trí tuệ nhân tạo.
@@ -49,7 +49,7 @@
 
 <br/>
 
-<h2 id="services">🎯 Lĩnh Vực Hoạt Động</h2>
+<h2 id="services"><img src="https://img.icons8.com/fluency/48/target.png" width="30" valign="middle"/> Lĩnh Vực Hoạt Động</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -86,7 +86,7 @@
 
 <br/>
 
-<h2 id="tech-stack">🛠 Hệ Sinh Thái Công Nghệ</h2>
+<h2 id="tech-stack"><img src="https://img.icons8.com/fluency/48/maintenance.png" width="30" valign="middle"/> Hệ Sinh Thái Công Nghệ</h2>
 
 Chúng tôi sử dụng những công nghệ AI và Business Intelligence hàng đầu để tạo ra giải pháp thông minh.
 
@@ -129,7 +129,7 @@ Chúng tôi sử dụng những công nghệ AI và Business Intelligence hàng 
 
 <br/>
 
-<h2 id="projects">🏆 Dự Án Tiêu Biểu</h2>
+<h2 id="projects"><img src="https://img.icons8.com/fluency/48/trophy.png" width="30" valign="middle"/> Dự Án Tiêu Biểu</h2>
 
 <table>
   <thead>
@@ -163,7 +163,7 @@ Chúng tôi sử dụng những công nghệ AI và Business Intelligence hàng 
 <hr/>
 
 <div align="center" id="contact">
-  <h3>🤝 Kết nối với chúng tôi</h3>
+  <h3><img src="https://img.icons8.com/fluency/48/handshake.png" width="30" valign="middle"/> Kết nối với chúng tôi</h3>
   <p>Hãy để Q-Tech đồng hành cùng bạn trong hành trình chuyển đổi số với AI.</p>
   
   <p>
